@@ -1,10 +1,4 @@
-"""
-Not hesaplama
-
-
-
-
-"""
+# -*- coding: utf-8 -*-
 
 a=int(input("1. Sayiyi giriniz: "))
 b=int(input("2. Sayiyi giriniz: "))
